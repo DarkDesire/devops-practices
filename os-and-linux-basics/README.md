@@ -5,17 +5,6 @@
 ### **EXERCISE 1: Linux Centos Docker image**
 
 Create a Linux Centos on your computer. Check the distribution, which package manager it uses (yum, apt, apt-get). Which CLI editor is configured (Nano, Vi, Vim). What software center/software manager it uses. Which shell is configured for your user.
-<details>
-  <summary>Soution</summary>
-
-  Creating container: <br>
-  `docker run --name mycentos -it -d centos bash` <br>
-  Connecting to container: <br>
-  `docker exec -it mycentos bash`<br>
-  `echo $SHELL` : /bin/bash <br>
-  CLI: **vi** <br>
-  Package manager: **yum** <br>
-</details>
 
 ### **EXERCISE 2: Bash Script - Install Java**
 
