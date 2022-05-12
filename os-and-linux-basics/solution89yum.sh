@@ -54,7 +54,7 @@ runuser -l $NEW_USER -c "
     export APP_ENV=dev && 
     export DB_PWD=mysecret && 
     export DB_USER=myuser && 
-    export LOG_DIR=$LOG_DIRECTORY && 
+    export LOG_DIR=$LOG_DIR && 
     cd package && 
     npm install && 
     node server.js &"
