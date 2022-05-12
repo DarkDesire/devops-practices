@@ -2,9 +2,9 @@
 
 ### **Exercises for Module "Linux"**
 
-### **EXERCISE 1: Linux Mint Virtual Machine**
+### **EXERCISE 1: Linux Centos Docker image**
 
-Create a Linux Mint Virtual Machine on your computer. Check the distribution, which package manager it uses (yum, apt, apt-get). Which CLI editor is configured (Nano, Vi, Vim). What software center/software manager it uses. Which shell is configured for your user.
+Create a Linux Centos on your computer. Check the distribution, which package manager it uses (yum, apt, apt-get). Which CLI editor is configured (Nano, Vi, Vim). What software center/software manager it uses. Which shell is configured for your user.
 
 ### **EXERCISE 2: Bash Script - Install Java**
 
