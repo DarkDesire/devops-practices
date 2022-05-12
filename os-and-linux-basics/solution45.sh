@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "Would you like to sort the processes output by memory or CPU? (mem/cpuy) "
+echo -n "Would you like to sort the processes output by memory or CPU? (mem/cpu) "
 read sortby
 echo -n "How many results do you want to display? "
 read lines
